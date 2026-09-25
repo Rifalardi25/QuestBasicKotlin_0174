@@ -41,4 +41,6 @@ Sub bab check for null values
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/736f1ebf-6273-4973-be9f-39c9d12e5e6d" />
 Sub bab use safe calls
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4cb3a061-0065-45d7-9fd8-a1c0052b2161" />
+Sub bab Use Elvis operator
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/1659248e-cc33-4d85-a99c-8d4715ef322c" />
 
