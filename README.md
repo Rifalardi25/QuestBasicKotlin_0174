@@ -33,5 +33,7 @@ Sub bab data classes dan print as string
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/398f4ad0-7d2c-41d1-a4fb-5de24de416c3" />
 Sub bab copy instance
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b75b4ca9-f781-4702-9f92-402797d4c8ad" />
+Sub bab compare instance
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6dd07042-e56e-439e-9665-8e045a3c9f28" />
 
 
