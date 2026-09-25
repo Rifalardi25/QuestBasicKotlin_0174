@@ -7,3 +7,5 @@ Sub bab tipe data dasar
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/2fa2f3ad-c9f3-43b8-93d1-286808763c93" />
 Sub bab list
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/908b6aac-c64d-4e5f-b3a7-f1954e6de2c1" />
+Sub bab map
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/989012e1-d6d4-4f19-b480-1aa1bf51724c" />
