@@ -17,5 +17,7 @@ Sub bab range dan for
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4c16f84b-5316-4ce5-b1c3-21fdecb966a4" />
 Sub bab function
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5b611a5e-b1a6-439f-8bd1-b0649db7eae0" />
-sub bab named arguments
+Sub bab named arguments
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9eb75904-e18b-487f-9377-33e6fa027801" />
+Sub bab default parameter values
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ee9ff9e1-94d8-4821-9330-5fe69c8eb9c3" />
