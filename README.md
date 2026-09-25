@@ -15,3 +15,5 @@ Sub bab conditional express
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8132f001-80af-4efc-94cd-1c7262cf9a24" />
 Sub bab range dan for
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4c16f84b-5316-4ce5-b1c3-21fdecb966a4" />
+Sub bab function
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5b611a5e-b1a6-439f-8bd1-b0649db7eae0" />
