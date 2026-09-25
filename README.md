@@ -39,4 +39,6 @@ Sub bab nullable types
 <img width="1278" height="800" alt="image" src="https://github.com/user-attachments/assets/7a831a70-98e6-456d-8f52-bb63629d7e4a" />
 Sub bab check for null values
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/736f1ebf-6273-4973-be9f-39c9d12e5e6d" />
+Sub bab use safe calls
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4cb3a061-0065-45d7-9fd8-a1c0052b2161" />
 
