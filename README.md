@@ -21,3 +21,6 @@ Sub bab named arguments
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9eb75904-e18b-487f-9377-33e6fa027801" />
 Sub bab default parameter values
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ee9ff9e1-94d8-4821-9330-5fe69c8eb9c3" />
+Sub bab function without return
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7860fa0f-3c41-407d-8fc1-751740171330" />
+
