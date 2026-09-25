@@ -31,5 +31,7 @@ Sub bab member function
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/428a2747-c0ff-4d23-89f7-447540ef9b97" />
 Sub bab data classes dan print as string
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/398f4ad0-7d2c-41d1-a4fb-5de24de416c3" />
+Sub bab copy instance
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b75b4ca9-f781-4702-9f92-402797d4c8ad" />
 
 
