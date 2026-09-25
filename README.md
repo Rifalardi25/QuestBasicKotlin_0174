@@ -35,5 +35,6 @@ Sub bab copy instance
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b75b4ca9-f781-4702-9f92-402797d4c8ad" />
 Sub bab compare instance
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6dd07042-e56e-439e-9665-8e045a3c9f28" />
-
+Sub bab nullable types
+<img width="1278" height="800" alt="image" src="https://github.com/user-attachments/assets/7a831a70-98e6-456d-8f52-bb63629d7e4a" />
 
