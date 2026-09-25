@@ -27,4 +27,7 @@ Sub bab lambda expressions
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ab9e8157-8462-4b34-a5fc-adb526bebd8f" />
 Sub bab class
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b1210771-ee80-46c5-9535-013c23a34c4d" />
+Sub bab member function
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/428a2747-c0ff-4d23-89f7-447540ef9b97" />
+
 
