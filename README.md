@@ -25,4 +25,6 @@ Sub bab function without return
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7860fa0f-3c41-407d-8fc1-751740171330" />
 Sub bab lambda expressions
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ab9e8157-8462-4b34-a5fc-adb526bebd8f" />
+Sub bab class
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b1210771-ee80-46c5-9535-013c23a34c4d" />
 
